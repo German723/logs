@@ -1,0 +1,1 @@
+SQL*Plus提供的结果集显示方式为纯文，PL/SQL Developer和Toad提供了Grid表格式结果集
